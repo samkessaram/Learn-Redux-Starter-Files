@@ -1,0 +1,18 @@
+{
+  "debug": false,
+  "prettier_cli_path": "",
+  "node_path": "",
+  "auto_format_on_save": false,
+  "allow_inline_formatting": false,
+  "prettier_options": {
+    "useTabs": false,
+    "printWidth": 80,
+    "singleQuote": true,
+    "trailingComma": "none",
+    "bracketSpacing": true,
+    "jsxBracketSameLine": false,
+    "parser": "babylon",
+    "semi": false,
+    "arrowParens": "always"
+  }
+}
